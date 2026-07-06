@@ -1,3 +1,12 @@
+<h1 align="center">Hey, I'm Rugveda Desai 👋</h1>
+
+<p align="center">
+  <b>Building full-stack products, AI-powered systems, and technology that creates real-world impact.</b>
+</p>
+
+<p align="center">
+  Computer Science & Data Science @ MIT Bengaluru • Full-Stack Development • AI/LLMs • Research
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rugvedadesai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:desairugveda) 
