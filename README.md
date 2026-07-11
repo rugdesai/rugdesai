@@ -8,10 +8,10 @@
   Computer Science & Data Science @ MIT Bengaluru • Full-Stack Development • AI/LLMs • Research
 </p>
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rugvedadesai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:desairugveda) 
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
